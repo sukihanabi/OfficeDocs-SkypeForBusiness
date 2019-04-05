@@ -161,7 +161,7 @@ On iOS devices, Skype for Business signs out automatically after the mobile clie
 |Access detailed meeting roster for IM conferences  <br/> |&#x2714;|&#x2714;|&#x2714;|&#x2714;|
 |Share desktop or program  <br/> |&#x2714;||||
 |View shared desktop or program (VbSS or RDP)  <br/> |&#x2714;|&#x2714; &#x2777; |&#x2714; &#x2777; |&#x2714; &#x2777; |
-|View shared PowerPoint files  <br/> |&#x2714;|&#x2714; &#x2777; |&#x2714; &#x2778; |&#x2714; &#x2778; |
+|View shared PowerPoint files  <br/> |&#x2714;|&#x2714; &#x2777; |&#x2714; &#x2777; &#x2778; |&#x2714; &#x2777; &#x2778; |
 |Upload and present PowerPoint files  <br/> |&#x2714;||&#x2714; &#x2777; |&#x2714; &#x2777; |
 |Use meeting tools (use whiteboard, conduct polls, share files)  <br/> |&#x2714;||||
 |Navigate a list of your meetings  <br/> |&#x2714;|&#x2714;|&#x2714;|&#x2714;|
